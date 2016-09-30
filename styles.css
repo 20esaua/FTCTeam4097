@@ -1,0 +1,46 @@
+.jumbotron {
+	background-color: #BDBDBD !important;
+	border-radius: 25px !important;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	
+	transition: 0.75s !important;
+}
+
+.jumbotron:hover {
+	background-color: #B3B3B3 !important;
+	border-radius: 50px !important;
+	
+	transition: 0.75s !important;
+}
+
+#navitem {
+	transition: 0.75s !important;
+	font-family: 'Ubuntu', sans-serif !important;
+}
+
+#navitem:hover {
+	background-color: #757575 !important;
+	font-family: 'Ubuntu', sans-serif !important;
+	
+	transition: 0.75s !important;
+}
+
+h1 {
+	font-family: 'Ubuntu', sans-serif !important;
+}
+
+body {
+	background-color: #CFD8DC !important;
+}
+
+nav {
+	margin-left: 25px !important;
+	margin-right: 25px !important;
+	margin-top: 10px !important;
+	border-radius: 400px !important;
+}
